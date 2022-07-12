@@ -69,6 +69,7 @@ p {
     margin-left: 25px;
 }
 
+/* renamed class elements and regrouped content to avoid repetetive code */
 .content {
     width: 75%;
     display: inline-block;
@@ -85,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* renamed class elements and regrouped benefit aside to avoid repetetive code */
 .benefit-aside {
     margin-bottom: 32px;
     color: #ffffff;
